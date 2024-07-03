@@ -1,8 +1,1 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2761
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww34000\viewh20240\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 sakjdhjkashd}
+cd && sudo wget https://github.com/BenjaminLentini/LSI-Get/blob/cd08f761dd023940b6054f75446563813b158a5a/lsigetlinux_021323.sh && ./lsigetlinux_021323.sh && 
